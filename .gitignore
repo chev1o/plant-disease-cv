@@ -216,5 +216,21 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
+# данные и артефакты
+data/
+data_raw/
+mlruns/
+*.pt
+*.pth
+*.zip
+
+# секреты
+kaggle.json
+.env
+
+# окружение
+.venv/
+.ipynb_checkpoints/
+
 # Streamlit
 .streamlit/secrets.toml
