@@ -1,0 +1,7 @@
+crop,diseased_imgs,healthy_imgs,diseased_classes,healthy_classes,diseased_share_%,ratio_dis_to_healthy
+Tomato,16569,1591,9,1,91.2,10.41
+Grape,3639,423,3,1,89.6,8.6
+Corn_(maize),2690,1162,3,1,69.8,2.31
+Potato,2000,152,2,1,92.9,13.16
+Apple,1526,1645,3,1,48.1,0.93
+"Pepper,_bell",997,1478,1,1,40.3,0.67
